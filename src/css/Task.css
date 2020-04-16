@@ -1,0 +1,16 @@
+.task_list {
+    display: flex;
+    flex-direction: row;
+}
+.title {
+    flex: 0 0 40%;
+    color: black;
+}
+.status {
+    flex: 0 0 30%;
+    text-align: center;
+}
+.type {
+    flex: 0 0 30%;
+    text-align: right;
+}

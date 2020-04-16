@@ -1,0 +1,16 @@
+.barTabs {
+  position: relative;
+  background-color: #333;
+  overflow: hidden;
+}
+.barTabs .nav-link {
+    cursor: pointer;
+}
+.barTabs .nav-item {
+   margin-left: 5%;
+    color: white;
+}
+.barTabs .nav-link.active {
+    background-color: #4CAF50;
+    color: white;
+}

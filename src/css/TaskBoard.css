@@ -1,0 +1,14 @@
+.grid-view {
+    display: flex;
+}
+.grid-view_column {
+    flex: 1 1 25%;
+    padding: 10px;
+    border: 1px solid #bfbfbf;
+    border-right: 0;
+    background-color: #333;
+}
+.boardtitle {
+    text-align: center;
+    color: white;
+}
